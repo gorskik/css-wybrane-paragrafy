@@ -1,11 +1,13 @@
 p {
     width: 100px;
     height: 100px;
-    color: red;
+    background-color: red;
 }
+
 .niebieski {
     background-color: blue;
 }
+
 .przezroczysty {
     opacity: 0.3;
 }
